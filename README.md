@@ -1,6 +1,8 @@
 # Loady 
 Fluent syntax library for attaching progress indicators to ViewGroups.
 
+<div style="text-align:center"><img src="assets/screen.gif" height="400" /></div>
+
 ## Example
 ```kotlin
 // show custom loading layout
