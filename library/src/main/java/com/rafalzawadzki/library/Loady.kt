@@ -54,7 +54,6 @@ object Loady {
             }
 
             anchor.invalidate()
-
         }
 
         fun remove() {
